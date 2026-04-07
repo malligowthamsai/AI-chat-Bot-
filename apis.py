@@ -2,7 +2,7 @@
 
 import requests
 
-API_KEY = "AIzaSyD0V1mLzYUt5Myb_vCGPyNJbZqOgvuO7Is"
+API_KEY = ""
 
 URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent"
 
